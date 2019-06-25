@@ -1,1 +1,1 @@
-# SolsticeSolarScore
+# SolarScore
